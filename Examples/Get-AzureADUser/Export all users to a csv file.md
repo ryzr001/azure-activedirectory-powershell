@@ -8,3 +8,5 @@ PS C:\Users\rodejo> connect-azureadAccount                   
 
 C:\Users\rodejo> get-azureaduser | export-csv "c:\data\allusers.csv"
 
+## end of script ##
+
